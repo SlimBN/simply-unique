@@ -1,0 +1,24 @@
+{
+  "name": "simply-unique",
+  "version": "1.0.0",
+  "description": "Eliminates duplicates in an array of elements, no dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SlimBN/simply-unique.git"
+  },
+  "keywords": [
+    "array",
+    "unique",
+    "no-dependencies"
+  ],
+  "author": "Slim Ben Nasrallah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SlimBN/simply-unique/issues"
+  },
+  "homepage": "https://github.com/SlimBN/simply-unique#readme"
+}
